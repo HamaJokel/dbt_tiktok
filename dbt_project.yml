@@ -38,5 +38,5 @@ models:
       materialized: view
 
 vars:
-    tiktok_ads_schema: coco-casing-bq-pbi.tiktokdata
+    tiktok_ads_schema: coco-casing-bq-pbi 
     tiktok_ads_database: tiktokdata
